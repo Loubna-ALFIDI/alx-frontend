@@ -457,11 +457,7 @@
     text-decoration: var(--button-hover-text-decoration);
     background-color: var(--button-hover-background);
   }
-  
-  [data-section-theme="dark"] {
-    --button-color: var(--color-white);
-  }
-  
+
   .visually-hidden {
     display: none;
   }
@@ -589,6 +585,7 @@
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
     background-color: var(--color-black);
+    --button-color: var(--color-white);
  }
 
  .social-link {
