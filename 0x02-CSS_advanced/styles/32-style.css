@@ -762,6 +762,7 @@
   .button:hover {
     transition-duration: var(--transition-duration);
     transition-property: color, background-color;
+  }
   
   .card-work .card-inner {
     transition: var(--transition-duration) var(--transition-cubic-bezier);
